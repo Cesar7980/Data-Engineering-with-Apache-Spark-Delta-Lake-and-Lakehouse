@@ -1,8 +1,6 @@
 # Data Engineering with Apache Spark, Delta Lake, and Lakehouse
 
-<a href="https://www.packtpub.com/product/data-engineering-with-apache-spark-delta-lake-and-lakehouse/9781801077743"><img src="https://static.packt-cdn.com/products/9781801077743/cover/smaller" alt="Data Engineering with Apache Spark, Delta Lake, and Lakehouse" height="256px" align="right"></a>
 
-This is the code repository for [Data Engineering with Apache Spark, Delta Lake, and Lakehouse](https://www.packtpub.com/product/data-engineering-with-apache-spark-delta-lake-and-lakehouse/9781801077743), published by Packt.
 
 **Create scalable pipelines that ingest, curate, and aggregate complex data in a timely and secure way**
 
@@ -16,10 +14,6 @@ This book covers the following exciting features:
 * Explore architectural and design patterns for building efficient data ingestion pipelines
 * Orchestrate a data pipeline for preprocessing data using Apache Spark and Delta Lake APIs
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801077746) today!
-
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
@@ -42,16 +36,6 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 1 - 12         | Azure                     | Windows, Mac OS X, and Linux (Any) |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801077743_ColorImages.pdf).
 
-
-### Related products <Other books you may enjoy>
-* Data Engineering with Python [[Packt]](https://www.packtpub.com/product/data-engineering-with-python/9781839214189) [[Amazon]](https://www.amazon.com/dp/183921418X)
-
-* Azure Data Engineering Cookbook [[Packt]](https://www.packtpub.com/product/azure-data-engineering-cookbook/9781800206557) [[Amazon]](https://www.amazon.com/dp/1800206550)
-
-## Get to Know the Author
-**Manoj Kukreja**
-is a Principal Architect at Northbay Solutions who specializes in creating complex Data Lakes and Data Analytics Pipelines for large-scale organizations such as banks, insurance companies, universities, and US/Canadian government agencies. Previously, he worked for Pythian, a large managed service provider where he was leading the MySQL and MongoDB DBA group and supporting large-scale data infrastructure for enterprises across the globe. With over 25 years of IT experience, he has delivered Data Lake solutions using all major cloud providers including AWS, Azure, GCP, and Alibaba Cloud. On weekends, he trains groups of aspiring Data Engineers and Data Scientists on Hadoop, Spark, Kafka and Data Analytics on AWS and Azure Cloud.
 
 
